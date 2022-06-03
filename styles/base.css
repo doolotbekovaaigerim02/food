@@ -1,0 +1,29 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+body, h1, h2, h3,div {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a,button {
+    text-decoration: none;
+}
+
+:root {
+    --background-color-content:background: #FFFFFF;
+    --background-color-footer: bacground: #262626;
+    --text-fonts-family: 'Roboto', sans-serif;
+    --text-font-size: 16px;
+    --text-line-height: 24px;
+    --text-color:  #1D1D1D;
+    --footer-text-size: 13px;
+    --footer-text-color: #FFFFFF;
+    --footer-line-height: 15px;
+}
